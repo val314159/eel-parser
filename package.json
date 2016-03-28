@@ -1,0 +1,15 @@
+{
+    "name":"eel-parser",
+    "description":"eel parser",
+    "version":"0.0.0",
+    "author":"<jmward@gmail.com>",
+    "main":"parser.js",
+    "repository":{
+	"type":"git",
+	"url":"https://github.com/val314159/eel-parser"
+    },
+    "scripts":{
+	"test":"node parser_test.js"
+    },
+    "license":"MIT"
+}
