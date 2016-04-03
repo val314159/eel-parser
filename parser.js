@@ -34,6 +34,7 @@ function parser(s,symbol){
     function add(){
 	keyword+=ch;
     }
+    s=String(s);
     for(n=0;n<s.length;n++){
 	ch=s[n];
 	switch(state){
