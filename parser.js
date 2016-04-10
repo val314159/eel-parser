@@ -1,5 +1,4 @@
 // parser.js
-print=console.log.bind(console);
 function parser(s,symbol){
     var state=0;
     var n,ch;
